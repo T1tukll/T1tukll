@@ -1,9 +1,9 @@
 # Artyom Titov
 
-DevOps Engineer focused on infrastructure, automation and self-hosting.
+DevOps Engineer.
 
-**Linux · Docker · Kubernetes · CI/CD · Nginx · Git**
+**Linux · Docker · Kubernetes · CI/CD · nginx · Git**
 
-Most of my projects are hosted on my self-hosted Git server:
+GitHub repositories are mirrors. Origin is my Forgejo server:
 
 **[git.vpnpickup.com](https://git.vpnpickup.com/artobyte)**
