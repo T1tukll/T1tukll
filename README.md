@@ -6,4 +6,4 @@ DevOps Engineer focused on infrastructure, automation and self-hosting.
 
 Most of my projects are hosted on my self-hosted Git server:
 
-**[git.vpnpickup.com](https://git.vpnpickup.com)**
+**[git.vpnpickup.com](https://git.vpnpickup.com/artobyte)**
